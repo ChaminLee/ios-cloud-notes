@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100%&height=300&section=header&text=📝%20동기화%20메모장&fontSize=90" width=100%>
+
 # 📝 동기화 메모장 프로젝트
 
 - 팀 프로젝트 (2인)
@@ -21,7 +23,20 @@
 ---
 <a name="구현"></a>
 
+# 📱 구현 
 
+|메모 생성|메모 편집|
+|:---:|:---:|
+|![Simulator Screen Recording - iPad Pro (12 9-inch) (5th generation) - 2022-02-25 at 17 58 54](https://user-images.githubusercontent.com/45652743/155686005-1e7edf73-f780-4778-beb6-555415403385.gif)|![Simulator Screen Recording - iPad Pro (12 9-inch) (5th generation) - 2022-02-25 at 18 00 15](https://user-images.githubusercontent.com/45652743/155686182-42b7e90a-3995-4bc4-a66a-ffe8edaea3d3.gif)|
+
+
+|메모 삭제|메모 검색|
+|:---:|:---:|
+|![Simulator Screen Recording - iPad Pro (12 9-inch) (5th generation) - 2022-02-25 at 18 02 03](https://user-images.githubusercontent.com/45652743/155686446-f7955663-b926-4186-85aa-f0e99f77de70.gif)|![Simulator Screen Recording - iPad Pro (12 9-inch) (5th generation) - 2022-02-25 at 18 15 03](https://user-images.githubusercontent.com/45652743/155688523-e5f5e129-0810-4483-bf2d-67ea8f66c94f.gif)|
+
+|메모 공유|Dropbox 로그인|
+|:---:|:---:|
+|![Simulator Screen Recording - iPad Pro (12 9-inch) (5th generation) - 2022-02-25 at 18 12 03](https://user-images.githubusercontent.com/45652743/155687956-495e510f-2468-42b5-9615-6ad63232ddd0.gif)|![Simulator Screen Recording - iPad Pro (12 9-inch) (5th generation) - 2022-02-25 at 18 09 18](https://user-images.githubusercontent.com/45652743/155687629-f52d29f4-228f-4927-9354-74f4e8d7debd.gif)|
 
 
 ---
